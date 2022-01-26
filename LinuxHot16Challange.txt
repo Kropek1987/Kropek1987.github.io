@@ -1,4 +1,5 @@
-LinuxHot16Challange
+# HOT 16
+
 
 # 1. ls
 # Pokazuje zawartość katalogu
@@ -47,3 +48,36 @@ LinuxHot16Challange
 
 # 16. clear
 # Czyści ekran terminalu
+
+
+
+# HOT 32
+
+# 17. cat
+# Umożliwia wyświetlenia zawartości pliku
+
+# 18. apt update
+# Sprawdzenie dostępnych aktualizacji
+
+# 19. apt upgrade
+# Aktualizacja wszystkich pakietów
+
+# 20. apt install pkgname
+# Instalacja konkretnego pakietu
+
+# 21. apt purge pkgname
+# Odinstalowanie konkretnego pakietu
+
+# 22. su
+# Przełączenie użytkownika
+
+# 23. cd/
+# Przejdź do katalogu głównego
+
+# 24. cd..
+# Jeden poziom katalogów w górę
+
+# 25. cd-
+# Powrót do poprzedniego katalogu
+
+# 26. 
