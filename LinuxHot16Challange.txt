@@ -1,0 +1,49 @@
+LinuxHot16Challange
+
+# 1. ls
+# Pokazuje zawartość katalogu
+
+# 2. pwd
+# Pokazuje katalog, w którym aktualnie się znajdujemy
+
+# 3. cd
+# Zmienia katalog
+
+# 4. rmdir
+# Usuwa katalog
+
+# 5. mkdir
+# Tworzy nowy katalog
+
+# 6. rm
+# Usuwa plik/pliki
+
+# 7. mv
+# Przenosi lub zmienia nazwę pliku
+
+# 8. cp
+# Kopiuje plik
+
+# 9. ps
+# Pokazuje, jakie procesy sa aktualnie wykonywane
+
+# 10. kill
+# Zabija działające procesy
+
+# 11. help
+# Wyświetla wszystkie polecenia w Linuxie
+
+# 12. passwd
+# Zmienia hasło
+
+# 13. su root
+# Przełączamy się na root'a
+
+# 14. touch
+# Tworzenie pliku
+
+# 15. find
+# Wyszukiwanie plików
+
+# 16. clear
+# Czyści ekran terminalu
