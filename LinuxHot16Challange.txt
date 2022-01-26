@@ -80,4 +80,10 @@
 # 25. cd-
 # Powrót do poprzedniego katalogu
 
-# 26. 
+# 26. sudo
+# Podwyższa uprawnienia do roota/admina
+
+# 27. df
+# Pokazuje wykorzystanie dysku
+
+# 28.
