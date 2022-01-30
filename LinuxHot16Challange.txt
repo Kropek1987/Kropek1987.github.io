@@ -83,7 +83,20 @@
 # 26. sudo
 # Podwyższa uprawnienia do roota/admina
 
-# 27. df
-# Pokazuje wykorzystanie dysku
+# 27. hostname
+# Pokazuje nazwę maszyny/hosta
 
-# 28.
+# 28. htop
+# Pokazuje zużycie procesora, pamięci ram oraz ilość procesów
+
+# 29. df -h
+# Pokazuje ilość użytego/wolnego miejsca na dyskach
+
+# 30. sort
+# Sortuje pliki w kolejności alfabetycznej
+
+# 31. uptime
+# Pokazuje, jak długo pracuje nasz system
+
+# 32. ;
+# Wstawiając średnik między kolejne komendy możemy uruchomić je jednocześnie
